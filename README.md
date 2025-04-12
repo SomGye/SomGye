@@ -1,4 +1,4 @@
-![Banner image, Maxwell Crawford, Full-Stack Software Engineer](github_banner_2025-20250409_1200.png)
+![Banner image, Maxwell Crawford, Full-Stack Software Engineer](github_banner_2025-20250409_1200-v2.png)
 <h2 align="center">Welcome to my programming hub 🙏</h2>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Here, I work on various personal projects, learn and grow as much as I can, experiment with frameworks and technologies, and safely archive past works.</p>
