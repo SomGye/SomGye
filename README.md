@@ -6,7 +6,8 @@
 <h4>Experience</h4>
 
 ![Frontend](https://img.shields.io/badge/Frontend-gray?style=flat-square&color=3e495b
-)
+)  
+
   ![TS/React/Recoil/Redux](https://img.shields.io/badge/TypeScript%2FJavaScript%2C_React%2C_Recoil.js%2C_Redux-gray?style=flat-square&logo=react&logoColor=white&labelColor=1e293b&color=334155
   )
   ![Tailwind/SCSS/MUI/Vite/Webpack/Rollup](https://img.shields.io/badge/Tailwind%2C_SCSS%2FCSS%2C_MUI%2FJoyUI%2FMaterial_UI%2C_Vite%2C_Webpack%2C_Rollup-gray?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1e293b&color=334155
@@ -17,14 +18,16 @@
   )
 
 ![Backend](https://img.shields.io/badge/Backend-gray?style=flat-square&color=464646
-)
+)  
+
   ![C#/SQLServer/EntityFramework](https://img.shields.io/badge/C%23_.NET%2C_Microsoft_SQL_Server%2C_Entity_Framework-gray?style=flat-square&logo=dotnet&logoColor=white&labelColor=262626&color=404040
   )
   ![PostgreSQL/SQLAlchemy/Alembic/MySQL/Redis/YAML](https://img.shields.io/badge/PostgreSQL%2C_SQLAlchemy%2C_Alembic%2C_MySQL%2C_Redis%2C_YAML-gray?style=flat-square&logo=datagrip&logoColor=white&labelColor=262626&color=404040
   )
 
 ![Tools](https://img.shields.io/badge/Tools-gray?style=flat-square&color=3f4957
-)
+)  
+
   ![VSCode/VS/SSMS/dbForgeStudio/PyCharm](https://img.shields.io/badge/VS_Code%2C_Visual_Studio%2C_SQL_Server_Management_Studio%2C_dbForge_Studio%2C_PyCharm-gray?style=flat-square&logo=vscodium&logoColor=white&labelColor=1f2937&color=374151
   )
   ![Vercel/Postman/CloudFoundry/Predix](https://img.shields.io/badge/Vercel%2C_Postman%2C_Cloud_Foundry%2C_Predix-gray?style=flat-square&logo=vercel&logoColor=white&labelColor=1f2937&color=374151
